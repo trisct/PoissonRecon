@@ -1,5 +1,8 @@
-bin/
-build/
+original/bin/
+original/build/
+research/bin/
+research/build/
+
 
 *.sdf
 *.suo
