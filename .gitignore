@@ -1,8 +1,8 @@
+bin/
+build/
+
 *.sdf
 *.suo
-/Obj/
-/Debug/
-/Bin/
 *.opensdf
 *.bat
 *.zip
