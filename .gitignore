@@ -11,3 +11,4 @@ research/build/
 *.bat
 *.zip
 .vs/*
+.vscode/
