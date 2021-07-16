@@ -12,3 +12,5 @@ research/build/
 *.zip
 .vs/*
 .vscode/
+bin/
+build/
